@@ -1,4 +1,4 @@
-![logo](https://github.com/NihalSalian/NihalSalian/blob/main/Yellow%20Professional%20Gamer%20LinkedIn%20Article%20Cover.png)
+![logo](https://github.com/NihalSalian/NihalSalian/blob/main/Yellow%20Professional%20Gamer%20LinkedIn%20Article%20Cover%20(1).png)
 <h1 align="center">Hi 👋, I'm Nihal Salian</h1>
 <h3 align="center">SDET | QA | Automation Tester |</h3>
 
