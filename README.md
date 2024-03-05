@@ -1,3 +1,4 @@
+![logo](https://github.com/NihalSalian/NihalSalian/blob/main/Yellow%20Professional%20Gamer%20LinkedIn%20Article%20Cover.png)
 <h1 align="center">Hi 👋, I'm Nihal Salian</h1>
 <h3 align="center">SDET | QA | Automation Tester |</h3>
 <img align="right" alt="coding" width="400" src="[![image](https://github.com/NihalSalian/NihalSalian/assets/70149861/4eba93d3-993a-4a69-891f-ee02a208797d)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
